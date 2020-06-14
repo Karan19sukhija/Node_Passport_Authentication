@@ -16,43 +16,43 @@ on Heroku ( Cloud based ' Platform as a service ').
 
     ### Features (with screenshots)
   
-    ..* Home Page
+    1. Home Page
         
         The landing Page of the application is the home page which basically display the user 
         allowing to choose either to register or to login directly (if the user is already registered).
         ![Alt text](/screenshots/Output_1.png?raw=true "Working of Web Sockets")
 
-    ..* Registeration Page
+    2. Registeration Page
         
         The Registeration Page of the application allows the user to register with unique valid email
         id, name and password. We also validated for the confirm password. 
         ![Alt text](/screenshots/Output_2.png?raw=true "Working of Web Sockets")
     
-    ..* Login Page
+    3. Login Page
         
         After getting registered with the application, the user is redirected to the login
         page. With valid credentials, the user can successfully log in. 
         ![Alt text](/screenshots/Output_3.png?raw=true "Working of Web Sockets")
 
-    ..* User details get stored in MongoDB ( Atlas)
+    4. User details get stored in MongoDB ( Atlas)
         
         Below screenshot clearly shows that the new user ( Sanjay Sukhija ) details gets stored
         in the database. Also note that the password stored is the Hash Value
         ![Alt text](/screenshots/Output_4.png?raw=true "Working of Web Sockets")
 
-    ..* Registered User trying to login
+    5. Registered User trying to login
         
         The user who has already registered himself with this application can log in
         to this application 
         ![Alt text](/screenshots/Output_5.png?raw=true "Working of Web Sockets")
 
-    ..* Dashboard
+    6. Dashboard
         
         The user after successfully logging in to the application reaches to the dashboard
         of the application  
         ![Alt text](/screenshots/Output_6.png?raw=true "Working of Web Sockets")
 
-    ..* Logging Out
+    7. Logging Out
         
         The user can Log out from the application  
         ![Alt text](/screenshots/Output_2.png?raw=true "Working of Web Sockets")

@@ -73,7 +73,7 @@ on Heroku ( Cloud based ' Platform as a service ').
         to the application
         ![Alt text](/screenshots/Output_10.png?raw=true "Working of Web Sockets")
 
-    11. Validation Part -4 ( Denial access of Dashboard b )
+    11. Validation Part -4 ( Denial access of Dashboard )
         
         The application will deny the access of the dashboard page without successfully loggging in
         to the application
